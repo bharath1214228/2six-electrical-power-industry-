@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+renewpower.in	TRUE	/	FALSE	1999999999	asp_transient_id	6b8b7b07cec40a3cf66c6131685de861
+
